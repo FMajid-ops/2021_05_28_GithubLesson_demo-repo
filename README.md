@@ -2,10 +2,9 @@
 
 git clone <clone>   <br />
 git pull  <br />
-
-git add . (adds everything)
-git commit -m "text" 
-git push -u origin master
+git add . (adds everything)  <br />
+git commit -m "text"   <br />
+git push -u origin master  <br />
 
 
 git status   <br />
