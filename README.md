@@ -1,7 +1,7 @@
 # Key github commands super high level
 
-git clone <clone>   <br />
-git pull  <br />
+git clone clone (to bring files locally)   <br />
+git pull <br />
 git add . (adds everything)  <br />
 git commit -m "text"   <br />
 git push -u origin master  <br />
